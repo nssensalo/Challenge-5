@@ -12,14 +12,14 @@ Two financial planning tools. The first determines if a credit union member has 
 ## Technologies
 
 This prodject uses Python 3.7 with the following packages:
-* ### **os** - Allows inreaction with the operating system
-* ### **requests** - Enables ability to send HTTP request
-* ### **json** - Transfers data into a easy-to-read format
-* ### **pandas** - A package of intuitive data analysis tools
-* ### **dotenv** - Loads environment variables from an env file
-* ### **alpaca_trade_api** - Creates access to realt-time data
-* ### **MCForecastTools** - Uses random variables oo run simulations to make predictions
-* ### **%matplotlib inline** - Enable ability to plot data
+* ### os - Allows inreaction with the operating system
+* ### requests - Enables ability to send HTTP request
+* ### json - Transfers data into a easy-to-read format
+* ### pandas - A package of intuitive data analysis tools
+* ### dotenv - Loads environment variables from an env file
+* ### alpaca trade api - Creates access to realt-time data
+* ### MCForecastTools - Uses random variables oo run simulations to make predictions
+* ### Matplotlib - Enable ability to plot data
 
 ---
 
