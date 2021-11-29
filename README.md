@@ -5,7 +5,7 @@
 #### Using API's and Simulations
 
 ---
-Two financial planning tools. The first determine if a credit union member has enough financial reserve for an emergency fund by using visualization tools. The second makes predictions to determine the performance of a retirement account in 30 years using historical data and a Monte Carlo simulation.  
+Two financial planning tools. The first determines if a credit union member has enough financial reserve for an emergency fund by using visualization tools. The second makes predictions to determine the performance of a retirement account in 30 years using historical data and a Monte Carlo simulation.  
 
 ---
 
